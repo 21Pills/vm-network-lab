@@ -105,10 +105,10 @@ A hands-on home lab project where I built a virtualized network using two VMs co
 3. Added an **A record** for the server
 4. Verified DNS resolution from the client VM using `nslookup`
 
-📸 *Screenshot: DNS Manager showing forward lookup zone*
+*Screenshot: DNS Manager showing forward lookup zone*
 <img width="1707" height="912" alt="image" src="https://github.com/user-attachments/assets/5a913b68-52db-4ead-b4d4-9ad03e6fb24f" />
 
-📸 *Screenshot: nslookup test result on client*
+*Screenshot: nslookup test result on client*
  <img width="824" height="504" alt="image" src="https://github.com/user-attachments/assets/6b7e6c45-3a9c-4e4b-9cfb-3d8a29a8ed0c" />
 
 ---
@@ -144,16 +144,18 @@ A hands-on home lab project where I built a virtualized network using two VMs co
 
 **Steps taken:**
 1. Installed the **File and Storage Services** role
-2. Created a shared folder *(e.g., `C:\SharedFiles`)*
+2. Created a shared folder *(Sales)*
 3. Configured **share permissions:**
    - Domain Users — Read
    - Administrators — Full Control
 4. Configured **NTFS permissions** on the folder
-5. Accessed the shared folder from the client VM via `\\[ServerName]\SharedFiles`
+5. Accessed the shared folder from the client VM via `\\[21Pills]\SharedFiles`
 
-📸 *Screenshot: <img width="762" height="682" alt="image" src="https://github.com/user-attachments/assets/cd0619ef-9c53-4fd5-b746-73410b253c89" />
+ *Screenshot: 
+<img width="762" height="682" alt="image" src="https://github.com/user-attachments/assets/cd0619ef-9c53-4fd5-b746-73410b253c89" />
 
-📸 *Screenshot: <img width="735" height="558" alt="image" src="https://github.com/user-attachments/assets/f86f81c6-8ef3-4fbc-88db-4d7364583422" />
+*Screenshot:
+<img width="735" height="558" alt="image" src="https://github.com/user-attachments/assets/f86f81c6-8ef3-4fbc-88db-4d7364583422" />
 
 
 ---
@@ -172,7 +174,7 @@ Verified that both VMs can communicate with each other.
 | Domain join | System Properties → Domain |  Joined |
 | File share access | `\\server\SharedFiles` |  Accessible |
 
-📸 *Screenshot: Ping test results*
+*Screenshot: Ping test results*
 <img width="1025" height="774" alt="image" src="https://github.com/user-attachments/assets/ade1002d-f82a-4fd5-a310-be5e7accb9f1" />
 <img width="1290" height="780" alt="image" src="https://github.com/user-attachments/assets/0ae97ac5-0103-410a-9ff1-0abe46d3e997" />
 <img width="1288" height="785" alt="image" src="https://github.com/user-attachments/assets/0e2c05a5-4702-4153-9997-4a2d17c0abc4" />
@@ -182,22 +184,7 @@ Verified that both VMs can communicate with each other.
 
 ---
 
-## Screenshots
 
-| # | Description | File |
-|---|-------------|------|
-| 1 | Hypervisor main screen | `screenshots/01-hypervisor.png` |
-| 2 | VM network settings | `screenshots/02-vm-network.png` |
-| 3 | DHCP scope setup | `screenshots/03-dhcp-scope.png` |
-| 4 | Client IP from DHCP | `screenshots/04-dhcp-client.png` |
-| 5 | DNS forward lookup zone | `screenshots/05-dns-zone.png` |
-| 6 | nslookup test | `screenshots/06-dns-nslookup.png` |
-| 7 | AD Users and Computers | `screenshots/07-ad-users.png` |
-| 8 | Client joined to domain | `screenshots/08-domain-join.png` |
-| 9 | Domain user login | `screenshots/09-domain-login.png` |
-| 10 | File share permissions | `screenshots/10-fss-permissions.png` |
-| 11 | Client accessing file share | `screenshots/11-fss-access.png` |
-| 12 | Ping test | `screenshots/12-ping-test.png` |
 
 ---
 
