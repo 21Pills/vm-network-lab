@@ -130,9 +130,11 @@ A hands-on home lab project where I built a virtualized network using two VMs co
 6. Joined the **Client VM** to the domain
 7. Logged into the client using the domain user account
 
-📸 *Screenshot: <img width="747" height="395" alt="image" src="https://github.com/user-attachments/assets/a4bbc7cd-2d3a-4763-8786-b842a8add5a1" />
+ *Screenshot:
+<img width="747" height="395" alt="image" src="https://github.com/user-attachments/assets/a4bbc7cd-2d3a-4763-8786-b842a8add5a1" />
 
-📸 *Screenshot: <img width="1609" height="945" alt="image" src="https://github.com/user-attachments/assets/43606702-9546-41d7-97bf-95f65de94a99" />
+ *Screenshot: 
+<img width="1609" height="945" alt="image" src="https://github.com/user-attachments/assets/43606702-9546-41d7-97bf-95f65de94a99" />
 
 ---
 
@@ -164,11 +166,11 @@ Verified that both VMs can communicate with each other.
 
 | Test | Command | Result |
 |------|---------|--------|
-| Ping server from client | `ping 192.168.1.129` | ✅ Success |
-| Ping client from server | `ping 192.168.1.2` | ✅ Success |
-| DNS resolution | `nslookup 21Pills.com` | ✅ Resolved |
-| Domain join | System Properties → Domain | ✅ Joined |
-| File share access | `\\server\SharedFiles` | ✅ Accessible |
+| Ping server from client | `ping 192.168.1.129` |  Success |
+| Ping client from server | `ping 192.168.1.2` |  Success |
+| DNS resolution | `nslookup 21Pills.com` |  Resolved |
+| Domain join | System Properties → Domain |  Joined |
+| File share access | `\\server\SharedFiles` |  Accessible |
 
 📸 *Screenshot: Ping test results*
 <img width="1025" height="774" alt="image" src="https://github.com/user-attachments/assets/ade1002d-f82a-4fd5-a310-be5e7accb9f1" />
