@@ -60,12 +60,18 @@ A hands-on home lab project where I built a virtualized network using two VMs co
 - **Static IP assigned:** *(e.g., 192.168.1.1)*
 
 ### Client VM
-- **RAM:** *(e.g., 2 GB)*
-- **CPU:** *(e.g., 2 cores)*
-- **Storage:** *(e.g., 30 GB)*
+- **RAM:** *( 2 GB)*
+- **CPU:** *(2 cores)*
+- **Storage:** *(30 GB)*
 - **Network Adapter:** *(e.g., Internal Network — "intnet")*
-- **IP:** 192.168.1.2
+- **IP:** (192.168.1.129)
 
+### Client VM 2
+- **RAM:** *( 2 GB)*
+- **CPU:** *(2 cores)*
+- **Storage:** *(30 GB)*
+- **Network Adapter:** *(e.g., Internal Network — "intnet")*
+- **IP:(192.168.1.131)
 <img width="748" height="720" alt="image" src="https://github.com/user-attachments/assets/e64a808c-5382-4212-8115-4f6ed9532734" />
 
 ---
@@ -88,10 +94,11 @@ A hands-on home lab project where I built a virtualized network using two VMs co
 4. Authorized the DHCP server in Active Directory
 5. Activated the scope
 
-📸 *Screenshot: DHCP scope configuration 
+ *Screenshot: DHCP scope configuration 
 <img width="800" height="325" alt="image" src="https://github.com/user-attachments/assets/9db74944-2393-44f4-b49d-f77869705ab5" />
 
-📸 *Screenshot: Client receiving IP address from server*
+ *Screenshot: Client receiving IP address from server*
+<img width="780" height="587" alt="image" src="https://github.com/user-attachments/assets/45bf065e-a8c9-4fc5-a214-a714baf92c12" />
 
 ---
 
