@@ -186,7 +186,6 @@ Verified that both VMs can communicate with each other.
 *Screenshot: Ping test results*
 <img width="1025" height="774" alt="image" src="https://github.com/user-attachments/assets/ade1002d-f82a-4fd5-a310-be5e7accb9f1" />
 <img width="1290" height="780" alt="image" src="https://github.com/user-attachments/assets/0ae97ac5-0103-410a-9ff1-0abe46d3e997" />
-<img width="1288" height="785" alt="image" src="https://github.com/user-attachments/assets/0e2c05a5-4702-4153-9997-4a2d17c0abc4" />
 <img width="1288" height="785" alt="image" src="https://github.com/user-attachments/assets/73268ad1-b747-41ce-a639-8ee0275ff8a7" />
 <img width="1023" height="763" alt="image" src="https://github.com/user-attachments/assets/e3dc679d-93e1-47b5-b96d-a1999c56c70a" />
 <img width="1019" height="766" alt="image" src="https://github.com/user-attachments/assets/90fcea32-5751-4d10-b3b0-9e877513ee30" />
