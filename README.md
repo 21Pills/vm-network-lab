@@ -138,9 +138,11 @@ A hands-on home lab project where I built a virtualized network using two VMs co
 7. Logged into the client using the domain user account
 
  *Screenshot:
+ 
 <img width="747" height="395" alt="image" src="https://github.com/user-attachments/assets/a4bbc7cd-2d3a-4763-8786-b842a8add5a1" />
 
  *Screenshot: 
+ 
 <img width="1609" height="945" alt="image" src="https://github.com/user-attachments/assets/43606702-9546-41d7-97bf-95f65de94a99" />
 
 ---
