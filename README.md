@@ -1,12 +1,12 @@
 # vm-network-lab
 Testing my abilities on setting up DHCP, DNS AD, and FTS. 
-# 🖥️ Home Lab – Windows Server VM Network
+# Home Lab – Windows Server VM Network
 
 A hands-on home lab project where I built a virtualized network using two VMs communicating with each other. The Windows Server VM acts as the backbone of the network, providing **DHCP**, **DNS**, **Active Directory (AD)**, and **File Sharing Services (FSS)**.
 
 ---
 
-## 📋 Table of Contents
+##  Table of Contents
 
 - [Lab Overview](#lab-overview)
 - [Environment Setup](#environment-setup)
